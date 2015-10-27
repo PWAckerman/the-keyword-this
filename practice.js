@@ -17,7 +17,7 @@
 
       If a function constructor is used, the 'this' refers to the new object.
 
-      When you use call or apply, this is explicitly defined (passed in as an argument).
+      When you use call or apply, 'this' is explicitly defined (passed in as an argument).
 
   // 3) What is the difference between call and apply?
 
